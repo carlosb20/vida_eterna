@@ -29,6 +29,7 @@ h1{
     align-items: center;
     flex-direction:column;
     justify-content: center;
+    text-indent: 20px;
  }   
 
  
@@ -66,9 +67,9 @@ p strong{
 }
 
 
-strong{
+p strong{
 
-    cor:red;
+  color:rgb(103, 103, 172);
 }
 
 
